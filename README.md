@@ -7,6 +7,7 @@ I love to work with any kind of data
 - Extract from different sources?
 - Transform data for analyses?
 - Fill a Datawarehouse or build a new one?
+
 Count me in! :)
 
 I like to work in the cloud.
