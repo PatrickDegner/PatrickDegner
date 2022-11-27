@@ -17,7 +17,7 @@ Count me in! :)
 I like to work in the cloud.
 Unlimited compute and storage capacities. Nice!
 
-Kinda sounds like a PS Fanboy in data oO
+Kinda sounds like a car-fanboy in data. Maybe im data driven? oO
 
 </br>
 
