@@ -1,25 +1,27 @@
-- 👋 Hi, I’m @PatrickDegner
-- 👀 I’m interested in Music, Programming and Data Engineering
-- 🌱 I’m currently learning another ELT tool ;)
+Welcome to my profile!
+
+Since you came here, let me introduce me.
+
+I love to work with any kind of data
+- ETL or ELT Pipelines?
+- Extract from different sources?
+- Transform data for analyses?
+- Fill a Datawarehouse or build a new one?
+Count me in! :)
+
+I like to work in the cloud.
+Unlimited compute and storage capacities. Nice!
+
+Kinda sounds like a PS Fanboy in data oO
+
+
+👀 I’m interested in Programming and Data Engineering
+🌱 I’m currently learning another ELT tool.
+⚡ My hobbies are Music, MMORPG's, cooking and eating ;)
 
 
 
 
-
-Willkommen auf meinem Profil!
-
-Da Sie sich die Arbeit gemacht haben vorbeizuschauen, möchte ich auch in kurz etwas über mich erzählen.
-
-Ich genieße die Arbeit mit Daten aller art.
-- ETL oder ELT Pipelines?
-- Extrahieren aus verschiedensten Quellen?
-- Daten zu Analysezwecken aufbereiten?
-- Ein Datawarehouse befüllen oder gar neu aufbauen?
-Da bin ich immer dabei :)
-
-Ich arbeite gerne in der Cloud.
-Unbegrenzte Rechen- und Speicherkapazitäten. Nice!
-Klingt jetzt irgendwie wie ein PS Fanboy im Datenbereich oO
 
 
 <!---
