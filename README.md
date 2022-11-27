@@ -1,4 +1,4 @@
-# Welcome to my profile!
+# Welcome to my Github!
 
 Since you came here, let me introduce me.
 
