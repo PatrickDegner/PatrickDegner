@@ -21,9 +21,9 @@ Kinda sounds like a car-fanboy in data. Maybe im data driven? oO
 
 </br>
 
-- 👀 I’m interested in Programming and Data Engineering
+- 👀 I’m interested in Data Engineering, Star Wars and Assassins Creed
 - 🌱 I’m currently learning another ELT tool
-- ⚡ My hobbies are Music, MMORPG's, cooking and eating ;)
+- ⚡ My hobbies are Music, gaming, cooking and eating ;)
 
 </br>
 
