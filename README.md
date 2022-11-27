@@ -1,6 +1,8 @@
-Welcome to my profile!
+## Welcome to my profile!
 
 Since you came here, let me introduce me.
+
+I'm Patrick, Data Engineer from Germany.
 
 I love to work with any kind of data.
 - ETL or ELT Pipelines?
