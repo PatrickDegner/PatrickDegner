@@ -27,7 +27,7 @@ Kinda sounds like a car-fanboy in data. Maybe im data driven? oO
 
 ## Some of my Skills and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=py,bash,azure,docker,fastapi,git,githubactions,postgres,vscode,visualstudio,sqlite,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,bash,azure,docker,fastapi,git,githubactions,postgres,vscode,sqlite,mysql)](https://skillicons.dev)
   
 <!---
 PatrickDegner/PatrickDegner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
