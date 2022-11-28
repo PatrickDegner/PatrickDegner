@@ -8,7 +8,7 @@ I love to work with any kind of data.
 - ETL or ELT Pipelines?
 - Extract from different sources?
 - Transform data for analyses?
-- Fill a Datawarehouse or build a new one?
+- Work with a Datawarehouse or build a new one?
 
 Count me in! :)
 </br>
