@@ -1,6 +1,6 @@
 # Welcome to my Github!
 
-Since you came here, let me introduce me.
+Since you came here, let me introduce myself
 
 I'm Patrick, Python Programmer / Data Engineer from Germany.
 
