@@ -27,7 +27,7 @@ Kinda sounds like a car-fanboy in data. Maybe im data driven? oO
 
 </br>
 
-Interested in my Data Blog?
+## A Data Blog maybe?
 
 https://patricksdejourney.blogspot.com/
 
