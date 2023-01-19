@@ -31,6 +31,8 @@ Kinda sounds like a car-fanboy in data. Maybe im data driven? oO
 
 https://patricksdejourney.blogspot.com/
 
+</br>
+
 ## Some of my Skills and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=py,bash,azure,docker,fastapi,git,githubactions,postgres,vscode,sqlite,mysql)]([https://skillicons.dev](https://github.com/PatrickDegner))
