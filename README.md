@@ -26,12 +26,6 @@ Kinda sounds like a car-fanboy in data. Maybe im data driven? oO
 
 </br>
 
-## A Data Blog maybe?
-
-https://patricksdejourney.blogspot.com/
-
-</br>
-
 ## Some of my Skills and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=py,bash,azure,docker,fastapi,git,githubactions,postgres,powershell,vscode,sqlite,mysql)]([https://skillicons.dev](https://github.com/PatrickDegner))
