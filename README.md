@@ -20,7 +20,7 @@ Kinda sounds like a car-fanboy in data. Maybe im data driven? oO
 
 </br>
 
-- 👀 I’m interested in Data Engineering, Star Wars and Assassins Creed
+- 👀 I’m interested in Data Engineering, Cloud Platforms, Star Wars and Assassins Creed
 - 🌱 I’m currently learning another ELT tool
 - ⚡ My hobbies are Music, gaming, cooking and eating ;)
 
