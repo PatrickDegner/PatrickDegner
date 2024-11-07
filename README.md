@@ -1,15 +1,11 @@
 # Welcome to my Github!
 
-Since you came here, let me introduce myself
+Since you've made the effort to stop by, I'd like to tell you a little about myself.
 
-I'm Patrick, Python Programmer / Data Engineer from Germany.
+As a passionate cloud / data engineer, I specialize in the development and implementation of scalable cloud solutions.
+My focus is on implementing cloud-native architectures, optimizing data pipelines and ensuring data quality.
 
-I love to work with any kind of data.
-- ETL or ELT Pipelines?
-- Cloud Architecture?
-- Work with a Datawarehouse or build a new one?
-
-Count me in! :)
+My passion for innovation drives me to always stay at the cutting edge of technological developments and develop new solutions.
 </br>
 </br>
 
