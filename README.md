@@ -17,7 +17,7 @@ Kinda sounds like a car-fanboy in data. Maybe im data driven? oO
 </br>
 
 - 👀 I’m interested in Data Engineering, Cloud Platforms, Star Wars and Assassins Creed
-- 🌱 I’m currently learning another ELT tool
+- 🌱 I’m currently learning another Tool or Technology
 - ⚡ My hobbies are Music, gaming, cooking and eating ;)
 
 </br>
